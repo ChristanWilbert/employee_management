@@ -11,7 +11,7 @@ public class Employees {
     }
 
     public Employees() {
-        this.Emplist = new ArrayList<Employee>();
+        this.Emplist = new ArrayList<>();
     }
 
     public List<Employee> getEmployeeList() {

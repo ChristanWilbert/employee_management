@@ -32,9 +32,9 @@ public class EmployeeManager {
 
         }
 
-        public String getAllEmployees() {
+        public Employees getAllEmployees() {
 
-                return list.toString();
+                return list;
         }
 
         public void addEmployee(Employee employee) {

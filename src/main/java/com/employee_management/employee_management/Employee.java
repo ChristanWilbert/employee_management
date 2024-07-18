@@ -40,4 +40,8 @@ public class Employee {
 
     }
 
+    public void setId(String id) {
+        employee_id = id;
+    }
+
 }
